@@ -19,11 +19,11 @@ We benchmark our code thoroughly on four datasets: MNIST, CIFAR-10/100 and image
 model    | Params | FLOPs | Top-1 (%) | Top-5 (%)
 ---------|--------|-------|-----------|-----------
 [Baseline]                       | 431K   | 2294K   | 99.40               | 100
-[LeNet (Conv-95/FC-95)](https://)| 22K    | 388K    | 99.17      | 100
-[LeNet (Conv-96/FC-96)](https://)| 18K    | 367K    | 99.10      | 100
-[LeNet (Conv-97/FC-97)](https://)| 14K    | 348K    | 99.02      | 100
-[LeNet (Conv-98/FC-98)](https://)| 9K     | 328K    | 98.91      | 100
-[LeNet (Conv-99/FC-99)](https://)| 5K     | 307K    | 98.53      | 99.98   
+[LeNet (Conv-95/FC-95)]| 22K    | 388K    | 99.17      | 100
+[LeNet (Conv-96/FC-96)]| 18K    | 367K    | 99.10      | 100
+[LeNet (Conv-97/FC-97)]| 14K    | 348K    | 99.02      | 100
+[LeNet (Conv-98/FC-98)]| 9K     | 328K    | 98.91      | 100
+[LeNet (Conv-99/FC-99)]| 5K     | 307K    | 98.53      | 99.98   
 
 2). DenseNet on CIFAR-10/100
 
@@ -56,23 +56,23 @@ Comparison among several state-of-the-art methods for ResNet50 on ILSVRC2012
 
 model    | Params | FLOPs | Top-1 (%) | Top-5 (%)
 ---------|--------|-------|-----------|-----------
-Baseline                    | 25.55M | 4.09G   | 76.13   | 92.862
-ResNet-G (Conv-60/FC-60)    | 11.88M | 1.91G   | 75.20   | 92.55
-ResNet-G (Conv-70/FC-60)    |  9.83M | 1.55G   | 74.43   | 92.30
-ResNet-G (Conv-80/FC-60)    |  7.76M | 1.20G   | 73.22   | 91.70
-ResNet-LG (Conv-60/FC-60)   | 11.87M | 1.91G   | 75.12   | 92.59
-ResNet-LG (Conv-70/FC-60)   |  9.83M | 1.56G   | 74.42   | 92.31
-ResNet-LG (Conv-80/FC-60)   |  7.76M | 1.20G   | 73.38   | 91.69
+[Baseline](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)                    | 25.55M | 4.09G   | 76.13   | 92.862
+[ResNet-G (Conv-60/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)    | 11.88M | 1.91G   | 75.20   | 92.55
+[ResNet-G (Conv-70/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)    |  9.83M | 1.55G   | 74.43   | 92.30
+[ResNet-G (Conv-80/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)    |  7.76M | 1.20G   | 73.22   | 91.70
+[ResNet-LG (Conv-60/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)   | 11.87M | 1.91G   | 75.12   | 92.59
+[ResNet-LG (Conv-70/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)   |  9.83M | 1.56G   | 74.42   | 92.31
+[ResNet-LG (Conv-80/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)   |  7.76M | 1.20G   | 73.38   | 91.69
 
 Comparison among several state-of-the-art methods for DenseNet201 on ILSVRC2012
 
 model    | Params | FLOPs | Top-1 (%) | Top-5 (%)
 ---------|--------|-------|-----------|-----------
-Baseline                    | 19.82M | 4.29G | 76.896  | 93.37
-DenseNet-G (Conv-70/FC-60)  |  6.00M | 1.34G | 76.21   | 93.07
-DenseNet-G (Conv-80/FC-60)  |  4.32M | 0.99G | 74.99   | 92.55
-DenseNet-LG (Conv-70/FC-60) |  6.00M | 1.34G | 76.12   | 93.06
-DenseNet-LG (Conv-80/FC-60) |  4.32M | 0.99G | 75.17   | 92.60
+[Baseline](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)                    | 19.82M | 4.29G | 76.896  | 93.37
+[DenseNet-G (Conv-70/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)  |  6.00M | 1.34G | 76.21   | 93.07
+[DenseNet-G (Conv-80/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)  |  4.32M | 0.99G | 74.99   | 92.55
+[DenseNet-LG (Conv-70/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ) |  6.00M | 1.34G | 76.12   | 93.06
+[DenseNet-LG (Conv-80/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ) |  4.32M | 0.99G | 75.17   | 92.60
 
 
 ## Domain Adaptation
