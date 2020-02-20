@@ -123,9 +123,15 @@ DenseNet-LG (Conv-80/FC-60) |  4.43M | 0.94G   | 23.0          | 28.9
 
 ## Train
 
-(1) ResNet50-ImageNet-G16-Pruning, getting the pruned models;
+For clssification：
 
+(1) ResNet50-ImageNet-G16-Pruning, getting the pruned models;  
 (2) ResNet50-ImageNet-G16-GlobalFinetune, globally fine-tuning the pruned models.
+
+For objection detection：
+
+CUDA_VISIBLE_DEVICES=0 python trainval_net.py --dataset coco --net res50 --bs 16 --nw 8 --lr 0.01 --lr_decay_step 4 --epochs 10  --cuda --mGPUs  
+CUDA_VISIBLE_DEVICES=0 python trainval_net.py --dataset coco --net dense201 --bs 16 --nw 16 --lr 0.01 --lr_decay_step 4 --epochs 10  --cuda --mGPUs
 
 ## Authorship
 
