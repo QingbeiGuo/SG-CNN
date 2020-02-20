@@ -125,8 +125,8 @@ DenseNet-LG (Conv-80/FC-60) |  4.43M | 0.94G   | 23.0          | 28.9
 
 For clssification：
 
-(1) ResNet50-ImageNet-G16-Pruning, getting the pruned models;  
-(2) ResNet50-ImageNet-G16-GlobalFinetune, globally fine-tuning the pruned models.
+(1) group=True for getting the pruned models;  
+(2) finetune=True for globally fine-tuning the pruned models.
 
 For objection detection：
 
