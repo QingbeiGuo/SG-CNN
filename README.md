@@ -140,3 +140,14 @@ CUDA_VISIBLE_DEVICES=0 python trainval_net.py --dataset coco --net dense201 --bs
 This project is contributed by [Qingbei Guo](https://github.com/QingbeiGuo).
 
 ## Citation
+
+@article{GuoWKF20,
+  title={Self-grouping Convolutional Neural Networks},
+  author={Guo, Qingbei and Wu, Xiao-Jun and Kittlerz, Josef and Feng, Zhiquan},
+  journal={Neural Networks},
+  volume={132},
+  pages={491--505},
+  year={2020},
+  publisher={Elsevier},
+  doi={10.1016/j.neunet.2020.09.015},
+}
