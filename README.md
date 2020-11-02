@@ -56,24 +56,27 @@ Comparison among several state-of-the-art methods for ResNet50 on ILSVRC2012
 
 model    | Params | FLOPs | Top-1 (%) | Top-5 (%)
 ---------|--------|-------|-----------|-----------
-[Baseline](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)                    | 25.55M | 4.09G   | 76.13   | 92.862
-[ResNet-G (Conv-60/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)    | 11.88M | 1.91G   | 75.20   | 92.55
-[ResNet-G (Conv-70/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)    |  9.83M | 1.55G   | 74.43   | 92.30
-[ResNet-G (Conv-80/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)    |  7.76M | 1.20G   | 73.22   | 91.70
-[ResNet-LG (Conv-60/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)   | 11.87M | 1.91G   | 75.12   | 92.59
-[ResNet-LG (Conv-70/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)   |  9.83M | 1.56G   | 74.42   | 92.31
-[ResNet-LG (Conv-80/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)   |  7.76M | 1.20G   | 73.38   | 91.69
+[Baseline](https://pan.baidu.com/s/10ofp_aLnX5RCisDsVzXT-Q)                    | 25.55M | 4.09G   | 76.13   | 92.862
+[ResNet-G (Conv-60/FC-60)](https://pan.baidu.com/s/10ofp_aLnX5RCisDsVzXT-Q)    | 11.88M | 1.91G   | 75.20   | 92.55
+[ResNet-G (Conv-70/FC-60)](https://pan.baidu.com/s/10ofp_aLnX5RCisDsVzXT-Q)    |  9.83M | 1.55G   | 74.43   | 92.30
+[ResNet-G (Conv-80/FC-60)](https://pan.baidu.com/s/10ofp_aLnX5RCisDsVzXT-Q)    |  7.76M | 1.20G   | 73.22   | 91.70
+[ResNet-LG (Conv-60/FC-60)](https://pan.baidu.com/s/10ofp_aLnX5RCisDsVzXT-Q)   | 11.87M | 1.91G   | 75.12   | 92.59
+[ResNet-LG (Conv-70/FC-60)](https://pan.baidu.com/s/10ofp_aLnX5RCisDsVzXT-Q)   |  9.83M | 1.56G   | 74.42   | 92.31
+[ResNet-LG (Conv-80/FC-60)](https://pan.baidu.com/s/10ofp_aLnX5RCisDsVzXT-Q)   |  7.76M | 1.20G   | 73.38   | 91.69
+
+baidupan psw: 1234
 
 Comparison among several state-of-the-art methods for DenseNet201 on ILSVRC2012
 
 model    | Params | FLOPs | Top-1 (%) | Top-5 (%)
 ---------|--------|-------|-----------|-----------
-[Baseline](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)                    | 19.82M | 4.29G | 76.896  | 93.37
-[DenseNet-G (Conv-70/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)  |  6.00M | 1.34G | 76.21   | 93.07
-[DenseNet-G (Conv-80/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ)  |  4.32M | 0.99G | 74.99   | 92.55
-[DenseNet-LG (Conv-70/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ) |  6.00M | 1.34G | 76.12   | 93.06
-[DenseNet-LG (Conv-80/FC-60)](https://pan.baidu.com/s/1Pxm_TCHKQxC_8c-6-pTuEQ) |  4.32M | 0.99G | 75.17   | 92.60
+[Baseline](https://pan.baidu.com/s/10ofp_aLnX5RCisDsVzXT-Q)                    | 19.82M | 4.29G | 76.896  | 93.37
+[DenseNet-G (Conv-70/FC-60)](https://pan.baidu.com/s/10ofp_aLnX5RCisDsVzXT-Q)  |  6.00M | 1.34G | 76.21   | 93.07
+[DenseNet-G (Conv-80/FC-60)](https://pan.baidu.com/s/10ofp_aLnX5RCisDsVzXT-Q)  |  4.32M | 0.99G | 74.99   | 92.55
+[DenseNet-LG (Conv-70/FC-60)](https://pan.baidu.com/s/10ofp_aLnX5RCisDsVzXT-Q) |  6.00M | 1.34G | 76.12   | 93.06
+[DenseNet-LG (Conv-80/FC-60)](https://pan.baidu.com/s/10ofp_aLnX5RCisDsVzXT-Q) |  4.32M | 0.99G | 75.17   | 92.60
 
+baidupan psw: 1234
 
 ## Domain Adaptation
 
