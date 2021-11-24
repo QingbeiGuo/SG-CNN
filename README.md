@@ -1,4 +1,4 @@
-# Self-grouping Convolutional Neural Networks. in Neural Networks, Elsevier, 2020.9.
+# Self-grouping Convolutional Neural Networks, Neural Networks, 2020
 
 ## Introduction
 
